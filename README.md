@@ -7,3 +7,16 @@ just select the Hatire Arduino input and assign the COM and Baud rate
 it should work
 
 if it doesnt thats your problem ive spent countless hours working on this BITCH ass code couldnt give a fuck what happens to it
+
+
+oh right wiring instructions here:
+
+===================================
+                                  =
+MPU9250 ---> ESP32                =
+                                  =
+VCC     ---> 3.3V !!! NOT 5V      =
+GND     ---> GND                  =
+SCL     ---> GPIO22               =
+SDA     ---> GPIO21               =
+===================================
