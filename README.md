@@ -11,12 +11,11 @@ if it doesnt thats your problem ive spent countless hours working on this BITCH 
 
 oh right wiring instructions here:
 
-===================================
-                                  =
-MPU9250 ---> ESP32                =
-                                  =
-VCC     ---> 3.3V !!! NOT 5V      =
-GND     ---> GND                  =
-SCL     ---> GPIO22               =
-SDA     ---> GPIO21               =
-===================================
+
+
+MPU9250 ---> ESP32      
+
+VCC     ---> 3.3V !!! NOT 5V 
+GND     ---> GND 
+SCL     ---> GPIO22 
+SDA     ---> GPIO21
