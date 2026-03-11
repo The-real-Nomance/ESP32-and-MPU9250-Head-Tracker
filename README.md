@@ -14,7 +14,7 @@ oh right wiring instructions here:
 
 
 |MPU9250| |--->| |ESP32|    
-| --- | --- | --- |
+        |  |  |  |
 |VCC|     |--->| |3.3V !!! NOT 5V|
 |GND|     |--->| |GND| 
 |SCL|     |--->| |GPIO22| 
