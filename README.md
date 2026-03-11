@@ -13,9 +13,11 @@ oh right wiring instructions here:
 
 
 
-|MPU9250| |--->| |ESP32|    
-        |  |  |  |
-|VCC|     |--->| |3.3V !!! NOT 5V|
-|GND|     |--->| |GND| 
-|SCL|     |--->| |GPIO22| 
-|SDA|     |--->| |GPIO21|
+## MPU9250 to ESP32 Wiring Connections
+
+| MPU9250 | Direction | ESP32 |
+|---------|-----------|-------|
+| VCC     | --->      | 3.3V (!!! NOT 5V) |
+| GND     | --->      | GND |
+| SCL     | --->      | GPIO22 |
+| SDA     | --->      | GPIO21 |
