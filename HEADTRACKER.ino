@@ -2,7 +2,7 @@
 // You can use this code as you like you could copy and paste it and call it yours i couldnt give a fuck
 // if you do change this code and it stops working dont call me please there is a chance if i do see this code again i might kill my self
 // now if you make this code better also dont call me cause ill kill YOU just edit it for your self cause if i figure out who made my code better ill kill us both
-// enjoy this shitshow of a code and i hop all the best while you suffer
+// enjoy this shitshow of a code and i hope all the best while you suffer
 // 
 
 
